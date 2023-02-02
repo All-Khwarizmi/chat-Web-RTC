@@ -18,6 +18,6 @@
 
 #### Using Websockets
 
-[Express server + websocket signaling + stunt server tutorial](https://web.dev/webrtc-infrastructure/, "Agora.io")
+[Express server + websocket signaling + stunt server tutorial](https://web.dev/webrtc-infrastructure/)
 
 [Another tutorial but for reference](https://web.dev/webrtc-infrastructure/, "Agora.io")
