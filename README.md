@@ -32,4 +32,4 @@ https://web.dev/webrtc-basics/
 
 *a shim to insulate apps from spec changes and prefix differences.*
 
-[Adapter.js](https://github.com/webrtc/adapter) 
+[Adapter.js](https://github.com/webrtc/adapter)  
