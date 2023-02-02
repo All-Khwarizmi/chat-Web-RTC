@@ -25,3 +25,9 @@
 [Another tutorial but for reference](https://web.dev/webrtc-infrastructure/, "Agora.io")
 
 https://web.dev/webrtc-basics/
+
+**WebRTC adapter**
+
+*a shim to insulate apps from spec changes and prefix differences.*
+
+[Adapter.js](https://github.com/webrtc/adapter)
